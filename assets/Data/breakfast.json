@@ -1,0 +1,8 @@
+{
+    "Breakfast":
+    [
+        {"name":"Cheese Sandwich", "price":"$15", "calories":"300 cal"},
+        {"name":"Bagel", "price":"$20", "calories":"400 cal"},
+        {"name":"Fruit", "price":"$5", "calories":"200 cal"}
+    ]
+}

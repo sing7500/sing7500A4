@@ -1,0 +1,8 @@
+{
+    "Dinner":
+    [
+        {"name":"Daal Makhni", "price":"$18", "calories":"360 cal"},
+        {"name":"Amritsari Kulcha", "price":"$15", "calories":"400 cal"},
+        {"name":"Rice", "price":"$10", "calories":"150 cal"}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "Lunch":
+    [
+        {"name":"Veggies", "price":"$10", "calories":"200 cal"},
+        {"name":"Pizza", "price":"$15", "calories":"500 cal"},
+        {"name":"Burger", "price":"$8", "calories":"300 cal"}
+    ]
+}
